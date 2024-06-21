@@ -1,0 +1,50 @@
+.home_wallpaper{
+    background-image: url(../imgs/home.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.744);
+}
+
+.home_about{
+    max-width: 1400px;
+    margin: 0 auto;
+    color: white;
+}
+
+.home_about .home_title{
+    font-size: 48px;
+    font-weight: 600;
+    color: whitesmoke;
+    margin-top: 120px;
+    max-width: 480px;
+}
+
+.home_about p{
+    font-size: 16px;
+    font-weight: 400;
+    color: whitesmoke;
+    max-width: 430px;
+    margin-block: 10px 30px;
+}
+
+.home_about a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(230, 233, 234);
+    padding: 7px 15px;
+    border-radius: 20px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
+
+.home_about a:hover{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
