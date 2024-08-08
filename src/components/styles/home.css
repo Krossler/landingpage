@@ -14,7 +14,7 @@
     color: white;
 }
 
-.home_about .home_title{
+.home_about .home__title{
     font-size: 48px;
     font-weight: 600;
     color: whitesmoke;
@@ -47,4 +47,15 @@
 .home_about a:hover{
     background-color: transparent;
     color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 960px){
+    .home_wallpaper{
+        background-image: url(../imgs/homemobile.jpg);
+    }
+
+    .home_about{
+        max-width: 340px;
+        margin: 0 auto;
+    }
 }

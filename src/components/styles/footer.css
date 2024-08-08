@@ -3,14 +3,14 @@
     color: #d7d7d7;
     padding: 10px 20px;
     min-height: 100px;
-  }
+}
   
-  .footer_container {
+.footer_container {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     height: 100%;
-  }
+}
 
 .footer_content{
     display: flex;

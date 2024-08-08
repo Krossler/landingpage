@@ -22,7 +22,7 @@ const ProductDetails = () => {
             <p>Name: {name}</p>
             <p>Tamaño: {size}cm</p>
             <p>{description}</p>
-            <p>${price}</p>
+            
         </div>
       </div>
     </div>

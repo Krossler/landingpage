@@ -15,7 +15,6 @@ const ProductContainer = () => {
         <h1>Productos</h1>
       </div>
       <section className="product_container">
-      <h1 className="product_container_title">Nuestros productos</h1>
         <div className="product_wrapper">
         <div className="product_list">
           {productList.map((product) => (
@@ -27,6 +26,7 @@ const ProductContainer = () => {
               description={product.description}
               price={product.price}
               url={product.url}
+              img={product.img}
             />
           ))}
         </div>

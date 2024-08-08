@@ -1,15 +1,12 @@
 .navbar_wallpaper{
-    background-image: url("https://images6.alphacoders.com/352/thumb-1920-352976.jpg");
-    height: 600px;
-    background-position: center;
     display: flex;
     flex-direction: column;
 }
 
 .navbar_wallpaper h1{
-    margin: 100px auto 0px auto;
-    color: black;
-    font-size: 48px;
+    margin: 50px auto 0px auto;
+    color: rgb(53, 5, 87);
+    font-size: 46px;
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -20,7 +17,7 @@
     justify-content: center;
     align-items: center;
     max-width: 1400px;
-    margin: 0 auto;
+    margin: 20px auto 0 auto;
     padding: 20px;
 }
 
@@ -28,14 +25,44 @@
     display: flex;
 }
 
-.product_container_title{
-    font-size: 24px;
-    font-weight: 500;
-    margin-bottom: 10px;
-}
-
 .product_list{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(233px, 1fr));
     max-width: 1400px;
+}
+
+@media screen and (max-width: 1500px){
+    .product_list{
+        max-width: 1200px;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .product_list{
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width: 950px){
+    .product_list{
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 620px){
+    .product_list{
+        max-width: 500px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .product_list{
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        max-width: 420px;
+        gap: 5px;
+    }
+
+    .product_container{
+        margin-top: 20px;
+    }
 }

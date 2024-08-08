@@ -8,9 +8,9 @@ const Home = () => {
     <section className='home_wallpaper'>
       <Navbar/>
         <div className='home_about'>
-          <h1 className='home_title'>La mejor iluminacion para tu hogar</h1>
+          <h1 className='home__title'>La mejor iluminacion para tu hogar</h1>
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto dicta, error autem</p>
-          <Link to="/" className='home_button'>Comprar</Link>
+          <Link to="/productos" className='home_button'>Comprar</Link>
         </div>
       </section>
   )

@@ -1,10 +1,14 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/home';
-import ProductContainer from './components/productContainer';
 import ProductDetails from './components/productDetails';
 import Layout from './components/Layout';
 import Footer from './components/footer';
+import Enterprise from './components/Enterprise';
+import Productos from './components/products';
+import ProductContainer from './components/productContainer';
+import ProductContainercolor from './components/productContainercolor';
+import "../src/components/styles/navbar.css"
 
 function App() {
   return (
@@ -12,7 +16,12 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="products" element={<ProductContainer />}>
+          <Route path="empresa" element={<Enterprise/>}></Route>
+          <Route path="productos" element={<Productos />}></Route>
+          <Route path="lamparasblancas" element={<ProductContainer/>}>
+            <Route path=":id" element={<ProductDetails />} />
+          </Route>
+          <Route path="lamparascoloridas" element={<ProductContainercolor/>}>
             <Route path=":id" element={<ProductDetails />} />
           </Route>
         </Route>

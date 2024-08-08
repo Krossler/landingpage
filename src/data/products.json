@@ -1,99 +1,90 @@
 [
     {
-        "id": 12,
-        "name": "Lampara de papel china",
-        "size": "12",
-        "description": "Pequeña y minimalista, buena opcion para grandes cantidades",
-        "price": "2.200",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
-    },
-    {
         "id": 20,
         "name": "Lampara de papel china",
         "size": "20",
         "description": "Perfecta para pequeños ambientes",
-        "price": "2.900",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1411643023-lampara-bola-de-papel-arroz-china-20-cm-_JM#position%3D11%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_888367-MLA74733678769_022024-O.webp"
     },
     {
         "id": 25,
         "name": "Lampara de papel china",
         "size": "25",
         "description": "Llama la atencion en pequeños ambientes",
-        "price": "2.200",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1424637047-lampara-bola-de-papel-arroz-china-25-cm-_JM#position%3D35%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_945985-MLA76159628823_052024-O.webp"
     },
     {
         "id": 30,
         "name": "Lampara de papel china",
         "size": "30",
         "description": "Disponible en distintos colores",
-        "price": "3.800",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1750433772-lampara-de-techo-bola-de-papel-arroz-30-cm-_JM#position%3D9%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_993425-MLA75820966424_042024-O.webp"
     },
     {
         "id": 35,
         "name": "Lampara de papel china",
         "size": "35",
         "description": "La mejor opcion para ambientes pequeños",
-        "price": "4.200",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1393869857-lampara-bola-de-papel-arroz-china-35-cm-_JM#position%3D7%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_995869-MLA72721704020_112023-O.webp"
     },
     {
         "id": 40,
         "name": "Lampara de papel china",
         "size": "40",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1408759555-lampara-de-techo-bola-de-papel-arroz-40-cm-_JM#position%3D5%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_915642-MLA72721701408_112023-O.webp"
     },
     {
         "id": 45,
         "name": "Lampara de papel china",
         "size": "45",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1549317098-lampara-bola-de-papel-arroz-china-45-cm-_JM#position%3D8%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_624148-MLA72721788798_112023-O.webp"
     },
     {
         "id": 50,
         "name": "Lampara de papel china",
         "size": "50",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_624065-MLA72721393272_112023-O.webp"
     },
     {
         "id": 55,
         "name": "Lampara de papel china",
         "size": "55",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1553923794-lampara-bola-de-papel-arroz-china-55-cm-_JM#position%3D4%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_934082-MLA72796154691_112023-O.webp"
     },
     {
         "id": 60,
         "name": "Lampara de papel china",
         "size": "60",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1549226890-lampara-bola-de-papel-arroz-china-60-cm-_JM?searchVariation=180439866731#searchVariation%3D180439866731%26position%3D24%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D450ecbae-6d29-4143-971a-87035228b3db",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_813357-MLA72721718600_112023-O.webp"
     },
     {
         "id": 65,
         "name": "Lampara de papel china",
         "size": "65",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1559847352-lampara-bola-de-papel-arroz-china-65-cm-_JM#position%3D12%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D06ddd358-61d5-4b48-bb28-21323fd14079",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_778750-MLA72796785403_112023-O.webp"
     },
     {
         "id": 75,
         "name": "Lampara de papel china",
         "size": "75",
         "description": "Buena opcion para departamentos",
-        "price": "6.400",
-        "url": "https://articulo.mercadolibre.com.ar/MLA-1392494477-lampara-bola-de-papel-arroz-china-50-cm-_JM#is_advertising=true&position=3&search_layout=grid&type=pad&tracking_id=a42cb780-14a8-42e1-ad09-b418bdc4fc5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=ZTk1NzQ2NWYtMWZiNC00MzhlLWIzM2ItNWVkYTJhZDIzYWEw"
+        "url": "https://articulo.mercadolibre.com.ar/MLA-1549291666-lampara-bola-de-papel-arroz-china-75-cm-_JM?searchVariation=179092771774#searchVariation%3D179092771774%26position%3D26%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D450ecbae-6d29-4143-971a-87035228b3db",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_919975-MLA72796144423_112023-O.webp"
     }
 ]
-

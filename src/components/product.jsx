@@ -5,11 +5,11 @@ import { Link, Outlet } from 'react-router-dom'
 const Product = (props) => {
   return (
     <div className="product_card">
-      <a target="blank" href={props.url} ><img className="product_img" src="/pantalla.jpg" width={210} alt="lampara" loading="lazy"/></a>
+      <a target="blank" href={props.url} ><img className="product_img" src={props.img} width={210} alt="lampara" loading="lazy"/></a>
       <div className="product_info_container">
-        <h1 className="product_title">{props.name} {props.size}cm</h1>
+        <h1 className="productinfo_title">{props.name} {props.size}cm</h1>
         <strong className="product_description">{props.description} </strong>
-        <span className="product_price">${props.price}</span>
+        
       </div>
       <div className="product_button_container">
       <Link className="product_button" to={{ pathname: `${props.id}` }} state={{
