@@ -14,14 +14,14 @@ function App() {
   return (
     <div className="route-section">
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/landingpage" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="empresa" element={<Enterprise/>}></Route>
-          <Route path="productos" element={<Productos />}></Route>
-          <Route path="lamparasblancas" element={<ProductContainer/>}>
+          <Route path="/empresa" element={<Enterprise/>}></Route>
+          <Route path="/productos" element={<Productos />}></Route>
+          <Route path="/lamparasblancas" element={<ProductContainer/>}>
             <Route path=":id" element={<ProductDetails />} />
           </Route>
-          <Route path="lamparascoloridas" element={<ProductContainercolor/>}>
+          <Route path="/lamparascoloridas" element={<ProductContainercolor/>}>
             <Route path=":id" element={<ProductDetails />} />
           </Route>
         </Route>
