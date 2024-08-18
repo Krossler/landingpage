@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/home';
 import ProductDetails from './components/productDetails';
 import Layout from './components/Layout';
@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="route-section">
       <Routes>
-        <Route path="/landingpage" element={<Layout />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="empresa" element={<Enterprise/>}></Route>
           <Route path="productos" element={<Productos />}></Route>
