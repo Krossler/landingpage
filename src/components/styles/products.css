@@ -22,10 +22,12 @@
 }
 
 .productpack_container h2{
-    margin-bottom: 60px;
-    color: rgb(53, 5, 87);
-    font-size: 18px;
+    margin: 0px auto 100px auto;
+    color: rgba(25, 25, 25, 0.818);
+    align-items: center;
     text-align: center;
+    font-size: 16px;
+    font-weight: 400;
     max-width: 900px;
 }
 

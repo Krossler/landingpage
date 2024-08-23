@@ -12,13 +12,14 @@ const Enterprise = () => {
           
           <h3>Quien somos</h3>
           <div className='pdiv'>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia tempore, ipsam impedit expedita, quis voluptatum iste magni eum ut accusantium ullam, atque consectetur eligendi harum quam maiores ex nesciunt deserunt?</p>
+            <p>Más de 20 años importando artículos de distintas regiones y culturas del mundo, llevando belleza y armonía a nuestros clientes.</p>
           </div>
 
           <h3>Nuestra mision</h3>
           <div className='pdiv'>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe possimus veritatis recusandae modi rem aliquam minima dolor sunt obcaecati sapiente a, consectetur commodi molestiae nam, reprehenderit illo harum aliquid? Quas!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem, non earum? Nemo voluptatum error amet nesciunt possimus ipsum quia iure nihil! Sit voluptas dignissimos, vero maiores rem esse iste distinctio. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci dolore repudiandae ex velit vel rem beatae natus? Quasi architecto dolor omnis quisquam ex ad autem voluptatem, cum alias a vel!</p>
+            <p>En Gangain, nuestra misión es transformar cada espacio en un hogar lleno de luz y estilo. Nos especializamos en la reventa de productos de decoración, con un enfoque particular en soluciones de iluminación que destacan por su diseño y calidad.</p>
+            <p>Creemos que la iluminación adecuada no solo embellece, sino que también crea ambientes acogedores y funcionales, donde cada detalle refleja la personalidad y el gusto de quienes lo habitan</p>
+            <p>Nos comprometemos a ofrecer productos que inspiren, aportando calidez y elegancia a cada rincón de su hogar.</p>
           </div>
         </div>
 

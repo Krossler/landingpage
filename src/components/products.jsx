@@ -11,7 +11,7 @@ const Productos = () => {
       <h1 className='products_tittle'>Productos</h1>
       <section className='productpack_container'>
         <h2>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates accusantium quaerat recusandae exercitationem, hic aspernatur quasi voluptatibus similique libero nisi. Consequuntur itaque magni deleniti eligendi hic vitae vero sit similique.
+        Ofrecemos una selección exclusiva de productos diseñados para realzar tanto tu hogar como tu estilo personal. Desde soluciones de iluminación que aportan calidez y elegancia, hasta sahumerios que llenan tu espacio de aromas relajantes. Además, nuestras pequeñas decoraciones añaden un toque único a cada rincón, mientras que los accesorios estéticos personales completan tu look con estilo y distinción.
         </h2>
           <div className='products_container2'>
             <Link to="/lamparasblancas" className='btn_style luz'><strong className='btn_style_text'>Iluminación</strong></Link>

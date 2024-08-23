@@ -9,6 +9,7 @@ import Productos from './components/products';
 import ProductContainer from './components/productContainer';
 import ProductContainercolor from './components/productContainercolor';
 import "../src/components/styles/navbar.css"
+import Logistica from './components/logistica';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="empresa" element={<Enterprise/>}></Route>
+          <Route path="logistica" element={<Logistica/>}></Route>
           <Route path="productos" element={<Productos />}></Route>
           <Route path="lamparasblancas" element={<ProductContainer/>}>
             <Route path=":id" element={<ProductDetails />} />
